@@ -1,6 +1,7 @@
 package com.genera.veiculos;
 
 public class Carro extends Veiculo {
+	
 	private String cor;
 	private int NmrPortas;
 	private int veloMax;
@@ -24,9 +25,7 @@ public class Carro extends Veiculo {
 	public void setVeloMax(int veloMax) {
 		this.veloMax = veloMax;
 	}
-	
 
-	
 	
 	
 
